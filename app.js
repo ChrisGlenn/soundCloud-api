@@ -1,1 +1,1 @@
-angular.module('sounder', [])
+angular.module('sounder', ['ngRoute'])
